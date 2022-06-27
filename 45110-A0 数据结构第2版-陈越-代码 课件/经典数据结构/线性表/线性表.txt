@@ -1,0 +1,11 @@
+线性表可以用顺序结构实现，也可以用链式结构实现
+
+基础的操作集
+make_empty:制作一个空表，适用于线性结构
+insert_L
+delete_L
+find_kth
+find(x)
+int length
+
+链式结构实现可以实现：没有头结点的版本，有头结点的版本
